@@ -1,4 +1,7 @@
-## Fixes for when a new LOL patch broke the game [`here`](./fixes/README.md)
+<!---
+Javier111228/Javier111228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->## Fixes for when a new LOL patch broke the game [`here`](./fixes/README.md)
 ---
 ## Please note that you are using this project on your own discretion, we don't hold any responsibility for any actions taken on you/on your account
 ---
